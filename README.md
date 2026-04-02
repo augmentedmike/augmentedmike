@@ -21,6 +21,8 @@ I build infrastructure for human-AI collaboration. Not wrappers. Not demos. Syst
 
 > Short-term context + long-term embeddings. Every state change is a commit. You can read all of it in an afternoon.
 
+![AM Board](board-demo.png)
+
 ## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript)
