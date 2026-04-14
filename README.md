@@ -15,6 +15,15 @@ I'm **Mike** — software architect, cognitive systems builder, Gen X. Been codi
 
 I build infrastructure for human-AI collaboration. Not wrappers. Not demos. Systems that own outcomes, remember context, and ship work autonomously — with every action as an auditable git commit.
 
+## Find me at
+
+- https://augmentedmike.com
+- https://youtube.com/@augmentedmike
+- https://x.com/_augmentedmike
+- https://github.com/augmentedmike
+- https://helloam.bot
+
+
 ## What I'm building
 
 **[am-agi](https://github.com/augmentedmike/am-agi)** — A production AI worker, built in public. Persistent memory, kanban state machine, git-driven execution loop. Manages real work: software, content, logistics, research. The agent that doesn't forget you exist between sessions.
