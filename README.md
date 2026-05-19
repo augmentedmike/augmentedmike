@@ -1,64 +1,77 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=F05CE3&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+the+AI+worker+that+builds+itself.;Cognitive+architecture+%E2%80%94+not+vibes.)](https://git.io/typing-svg)
-
-![](https://img.shields.io/badge/AM-digital_worker-F05CE3?style=flat-square&labelColor=18181b)
-![](https://img.shields.io/badge/Claude-power_user-pink?style=flat-square&logo=anthropic&logoColor=white&labelColor=18181b)
-![](https://img.shields.io/badge/ships_daily-✓-22c55e?style=flat-square&labelColor=18181b)
-![](https://img.shields.io/badge/Gen_X-get_shit_done-orange?style=flat-square&labelColor=18181b)
+![](https://img.shields.io/badge/Role-Staff_/_Senior_Engineer-blue?style=flat-square&labelColor=18181b)
+![](https://img.shields.io/badge/Experience-20+_Years-success?style=flat-square&labelColor=18181b)
+![](https://img.shields.io/badge/Focus-Systems_/_Infra_/_AI_Native-blueviolet?style=flat-square&labelColor=18181b)
+![](https://img.shields.io/badge/Status-Open_to_Selective_Roles-orange?style=flat-square&labelColor=18181b)
 
 </div>
 
 ---
 
-I'm **Mike** — software architect, cognitive systems builder, Gen X. Been coding since 13.
+# Michael O'Neal
 
-I build infrastructure for human-AI collaboration. Not wrappers. Not demos. Systems that own outcomes, remember context, and ship work autonomously — with every action as an auditable git commit.
+**Staff / Senior Software Engineer · Systems & Infrastructure · AI-Native Developer Tooling**  
+*20+ Years of Engineering · High Reliability · Distributed Systems · ML Infrastructure*
 
-## Find me at
+I am a production-focused Staff Systems & Fullstack Engineer with over two decades of experience designing, deploying, and scaling robust systems. My expertise spans distributed architectures, cloud-native infrastructure, developer tooling, and modern fullstack systems. 
 
-- https://augmentedmike.com
-- https://youtube.com/@augmentedmike
-- https://x.com/_augmentedmike
-- https://github.com/augmentedmike
-- https://helloam.bot
+My current focus is on **AI-native engineering**—moving past simple chatbot wrappers to design deterministic, auditable, and highly-observable LLM orchestration pipelines, automated developer workflows, and robust engineering tooling built to run reliably at scale.
 
+---
 
-## What I'm building
+### ⚡ Professional Highlights
 
-**[am-agi](https://github.com/augmentedmike/am-agi)** — A production AI worker, built in public. Persistent memory, kanban state machine, git-driven execution loop. Manages real work: software, content, logistics, research. The agent that doesn't forget you exist between sessions.
+* **20+ Years of Hands-on Engineering:** Proven track record spanning startups to scale-ups, building resilient systems from monoliths to microservices.
+* **Production & SRE Mindset:** Deep focus on operational reliability, high observability (metrics, tracing, logs), auto-scaling, and secure, auditable pipelines.
+* **AI-Native Engineering Partner:** Specializing in deterministic, state-driven AI integration, agentic developer workflows, and scalable ML infra.
+* **Low-Risk, Senior Contributor:** Calm, technical leader who prioritizes predictable shipping, clear system architecture, and robust automated test coverage.
 
-> Short-term context + long-term embeddings. Every state change is a commit. You can read all of it in an afternoon.
+---
 
-![AM Board](board-demo.png)
+### 🛠 Areas of Focus
 
-## Stack
+* **Distributed Systems & Architecture:** Designing high-throughput, fault-tolerant backend architectures, resilient event-driven systems, and clean, scalable APIs.
+* **AI & Agentic Infrastructure:** Developing reliable, state-machine-driven agent orchestration, production RAG pipelines, vector search optimization, and deterministic prompt/chain engineering.
+* **Production Engineering & DevOps:** Infrastructure as Code (Terraform), container orchestration (Docker, Kubernetes), automated CI/CD release pipelines, and full-stack observability.
+* **Developer Experience (DX) & Tooling:** Designing custom CLI utilities, automated build/test workflows, and git-integrated developer agents.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript)
-![Rust](https://img.shields.io/badge/Rust-18181b?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python)
-![Next.js](https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=next.js)
-![SQLite](https://img.shields.io/badge/SQLite-18181b?style=flat-square&logo=sqlite&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-18181b?style=flat-square&logo=bun)
+---
 
-## Activity
+### 💻 Core Technologies
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=augmentedmike&theme=github-compact&hide_border=true&bg_color=09090b&color=a1a1aa&line=F05CE3&point=ffffff)](https://github.com/augmentedmike)
+* **Languages:** TypeScript/JavaScript, Rust, Python, Go, SQL, Bash
+* **Frameworks & Runtimes:** Node.js, Bun, Next.js, FastAPI, React
+* **Data & Vector Stores:** PostgreSQL, SQLite, Redis, Pinecone, pgvector
+* **Cloud & Infrastructure:** AWS, GCP, Docker, Kubernetes, Terraform, GitHub Actions
+* **AI Orchestration:** Anthropic/OpenAI SDKs, LangChain, semantic routers, custom state-machine engines
+
+---
+
+### 🚀 Currently Building
+
+**[am-agi](https://github.com/augmentedmike/am-agi)** — A production-ready AI task execution and software engineering framework.
+* **Deterministic Execution:** Uses robust finite-state machines to manage and trace execution paths, avoiding unpredictable AI loops.
+* **Git-Driven Auditability:** Every state change and task action generates an auditable, isolated git commit for total execution transparency.
+* **Context Engine:** Integrates high-performance context retrieval and local relational storage for accurate long-running sessions.
+* **Developer-Centric:** Fully controllable via CLI, designed to integrate seamlessly into existing terminal and CI/CD workflows.
+
+*Visualizing execution states and task loops:*
+![AM Board Demo](board-demo.png)
+
+---
+
+### 📬 Connect & Collaborate
+
+* **Portfolio & Blog:** [augmentedmike.com](https://augmentedmike.com)
+* **Project Demo:** [helloam.bot](https://helloam.bot)
+* **Email:** [augmentedmike@gmail.com](mailto:augmentedmike@gmail.com)
+* **Social:** [X / Twitter](https://x.com/_augmentedmike) · [GitHub](https://github.com/augmentedmike)
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/augmentedmike/augmentedmike/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/augmentedmike/augmentedmike/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/augmentedmike/augmentedmike/output/github-snake.svg" />
 </picture>
-
----
-
-## Philosophy
-
-**Competence is care.** The agent that doesn't ship is just a chatbot. Memory lives on your machine. Execution is traceable. No black boxes.
-
-> The boulder never stops.
-
----
-
-[helloam.bot](https://helloam.bot) · augmentedmike@gmail.com
