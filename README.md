@@ -16,7 +16,7 @@
 
 I am a pragmatic, production-focused systems builder with over two decades of experience delivering high-availability software. My career spans distributed backend systems, cloud-native infrastructure, automated developer tooling, and modern full-stack systems.
 
-I specialize in **AI-native engineering**—designing and deploying deterministic, auditable, and observable LLM pipelines, robust agentic workflows, and high-performance ML orchestration layer tools. I focus on engineering rigor, operational maturity, and building systems that run predictably and reliably in enterprise production environments.
+I specialize in **AI-native engineering**—designing and deploying local-first AI workflow orchestration platforms, durable execution systems, and persistent context pipelines. I focus on engineering rigor, operational maturity, and building systems that run predictably and reliably in enterprise production environments.
 
 ---
 
@@ -24,7 +24,7 @@ I specialize in **AI-native engineering**—designing and deploying deterministi
 
 * **20+ Years of Hands-on Engineering:** Proven track record spanning startups to scale-ups, building resilient systems from monoliths to microservices.
 * **Production & SRE Mindset:** Deep focus on operational reliability, high observability (metrics, tracing, logs), auto-scaling, and secure, auditable pipelines.
-* **AI-Native Engineering Partner:** Specializing in deterministic, state-driven AI integration, agentic developer workflows, and scalable ML infra.
+* **AI-Native Engineering Partner:** Specializing in deterministic, state-driven AI workflow integration, async pipeline automations, and scalable ML infrastructure.
 * **Low-Risk, Senior Contributor:** Calm, technical leader who prioritizes predictable shipping, clear system architecture, and robust automated test coverage.
 
 ---
@@ -58,9 +58,9 @@ I specialize in **AI-native engineering**—designing and deploying deterministi
 ### 🛠 Areas of Focus
 
 * **Distributed Systems & Architecture:** Designing high-throughput, fault-tolerant backend architectures, resilient event-driven systems, and clean, scalable APIs.
-* **AI & Agentic Infrastructure:** Developing reliable, state-machine-driven agent orchestration, production RAG pipelines, vector search optimization, and deterministic prompt/chain engineering.
+* **AI Workflow Orchestration & ML Infrastructure:** Developing reliable, state-machine-driven task orchestration, production RAG pipelines, vector search optimization, and deterministic prompt/chain engineering.
 * **Production Engineering & DevOps:** Infrastructure as Code (Terraform), container orchestration (Docker, Kubernetes), automated CI/CD release pipelines, and full-stack observability.
-* **Developer Experience (DX) & Tooling:** Designing custom CLI utilities, automated build/test workflows, and git-integrated developer agents.
+* **Developer Experience (DX) & Tooling:** Designing custom CLI utilities, automated build/test workflows, and git-integrated development workflows.
 
 ---
 
@@ -76,10 +76,10 @@ I specialize in **AI-native engineering**—designing and deploying deterministi
 
 ### 🚀 Currently Building
 
-**[am-agi](https://github.com/augmentedmike/am-agi)** — A production-ready AI task execution and software engineering framework.
-* **Deterministic Execution:** Uses robust finite-state machines to manage and trace execution paths, avoiding unpredictable AI loops.
+**[helloam-agentic-kanban](https://github.com/augmentedmike/helloam-agentic-kanban)** — Local-first AI workflow orchestration platform with durable memory, async task execution, and state-machine-driven automation.
+* **Deterministic Execution:** Uses robust finite-state machines to manage and trace execution paths, avoiding unpredictable loops.
 * **Git-Driven Auditability:** Every state change and task action generates an auditable, isolated git commit for total execution transparency.
-* **Context Engine:** Integrates high-performance context retrieval and local relational storage for accurate long-running sessions.
+* **Stateful Workflow Execution:** Integrates high-performance context retrieval and local relational storage for accurate, long-running sessions.
 * **Developer-Centric:** Fully controllable via CLI, designed to integrate seamlessly into existing terminal and CI/CD workflows.
 
 *Visualizing execution states and task loops:*
