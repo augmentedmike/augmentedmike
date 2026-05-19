@@ -29,6 +29,32 @@ My current focus is on **AI-native engineering**—moving past simple chatbot wr
 
 ---
 
+### 💬 What Colleagues Say
+
+<table>
+  <tr>
+    <td width="120" valign="top">
+      <img src="ryan-bent.jpg" width="100" style="border-radius: 6px;" alt="Ryan Bent" />
+    </td>
+    <td valign="top">
+      <p>
+        <em>"I've worked with Mike for over five years across multiple projects. He's a highly qualified engineer, but what sets him apart is how quickly he learns and understands new domains."</em>
+      </p>
+      <p>
+        <em>"As a product manager, when I bring him a feature or tool that needs to be built, the first thing he does is start asking the business questions alongside the engineering questions. That's rare — and it can't be quantified."</em>
+      </p>
+      <p>
+        <em>"When you have an engineer who's solid on engineering principles, can build and ship deliverables quickly, and also understands the business context behind every ask, that's what makes someone a unicorn in this field."</em>
+      </p>
+      <p style="margin-top: 12px;">
+        <strong>— Ryan Bent</strong>, <em>Sr. Product Manager, Signet Corp.</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠 Areas of Focus
 
 * **Distributed Systems & Architecture:** Designing high-throughput, fault-tolerant backend architectures, resilient event-driven systems, and clean, scalable APIs.
