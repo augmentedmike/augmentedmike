@@ -11,12 +11,12 @@
 
 # Michael O'Neal
 
-**Staff / Senior Software Engineer · Systems & Infrastructure · AI-Native Developer Tooling**  
-*20+ Years of Engineering · High Reliability · Distributed Systems · ML Infrastructure*
+**Staff / Senior Systems & Fullstack Engineer**  
+*20+ Years of Engineering · Distributed Systems · Cloud Infrastructure · AI-Native Tooling*
 
-I am a production-focused Staff Systems & Fullstack Engineer with over two decades of experience designing, deploying, and scaling robust systems. My expertise spans distributed architectures, cloud-native infrastructure, developer tooling, and modern fullstack systems. 
+I am a pragmatic, production-focused systems builder with over two decades of experience delivering high-availability software. My career spans distributed backend systems, cloud-native infrastructure, automated developer tooling, and modern full-stack systems.
 
-My current focus is on **AI-native engineering**—moving past simple chatbot wrappers to design deterministic, auditable, and highly-observable LLM orchestration pipelines, automated developer workflows, and robust engineering tooling built to run reliably at scale.
+I specialize in **AI-native engineering**—designing and deploying deterministic, auditable, and observable LLM pipelines, robust agentic workflows, and high-performance ML orchestration layer tools. I focus on engineering rigor, operational maturity, and building systems that run predictably and reliably in enterprise production environments.
 
 ---
 
