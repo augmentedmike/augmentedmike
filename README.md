@@ -66,7 +66,7 @@ I specialize in **AI-native engineering**—designing and deploying local-first 
 
 ### 💻 Core Technologies
 
-* **Languages:** TypeScript/JavaScript, Rust, Python, Go, SQL, Bash
+* **Languages:** TypeScript/JavaScript, Rust, Python, C#, SQL, Bash
 * **Frameworks & Runtimes:** Node.js, Bun, Next.js, FastAPI, React
 * **Data & Vector Stores:** PostgreSQL, SQLite, Redis, Pinecone, pgvector
 * **Cloud & Infrastructure:** AWS, GCP, Docker, Kubernetes, Terraform, GitHub Actions
