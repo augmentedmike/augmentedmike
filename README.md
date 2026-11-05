@@ -1,7 +1,8 @@
 # Michael O'Neal
 
-Principal AI engineer: applied ML, agentic systems, production software.
-20+ years shipping software. San Diego, CA. Open to US remote roles.
+Senior software engineer: production systems and applied AI.
+25 years shipping software. Co-founder and CTO of ClaimHawk (acquired May 2026).
+San Diego, CA. Open to US remote senior/staff roles.
 
 I built ClaimHawk's AI claims-automation platform from the first line of code to five customer pilots, three paying customers and about $10K MRR, before its acquisition in May 2026. I fine-tuned open-weight models, built the computer-vision pipelines around them, and wrapped both in finite-state workflows and guardrails so AI output stays testable and auditable. I also cut per-customer training compute from about $8K to $2K.
 
@@ -22,7 +23,11 @@ I built ClaimHawk's AI claims-automation platform from the first line of code to
 
 ## Stack
 
-Python, TypeScript, React/Next.js, Node, Rust, C, SQL. PostgreSQL, SQLite, vector search. AWS, Modal, Docker, GitHub Actions. PyTorch, OpenCV, Qwen fine-tuning, RAG, Anthropic and OpenAI SDKs.
+Python, TypeScript, React/Next.js, Node, Rust, C, SQL. PostgreSQL, SQLite, vector search. AWS, Modal, Docker, GitHub Actions. PyTorch, OpenCV, model fine-tuning and policy-based RL, RAG, evaluation pipelines, Anthropic and OpenAI SDKs, Jev (TypeSafe AI).
+
+## Looking for
+
+Senior/staff roles on teams shipping AI into regulated or high-stakes domains (healthtech, insurtech, fintech, document AI), or backend/platform roles owning systems end to end. Remote, US time zones.
 
 ## Contact
 
