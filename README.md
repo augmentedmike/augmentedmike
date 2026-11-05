@@ -1,7 +1,7 @@
 # Michael O'Neal
 
 Senior software engineer: production systems and applied AI.
-25 years shipping software. Co-founder and CTO of ClaimHawk (acquired May 2026).
+25 years shipping software. Co-founder and principle engineer of ClaimHawk (acquired May 2026).
 San Diego, CA. Open to US remote senior/staff roles.
 
 I built ClaimHawk's AI claims-automation platform from the first line of code to five customer pilots, three paying customers and about $10K MRR, before its acquisition in May 2026. I fine-tuned open-weight models, built the computer-vision pipelines around them, and wrapped both in finite-state workflows and guardrails so AI output stays testable and auditable. I also cut per-customer training compute from about $8K to $2K.
