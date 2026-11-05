@@ -5,7 +5,6 @@ Most recently built ClaimHawk's AI claims-automation platform from the first lin
 
 ## Public work
 - [AM](https://github.com/augmentedmike/helloam-agentic-kanban): agentic engineering platform with gated, verifiable task workflows
-- [guarded-automation](https://github.com/augmentedmike/guarded-automation): model step + state machine + guardrails + eval harness, on synthetic data
 - [shellmail](https://github.com/augmentedmike/shellmail): terminal IMAP client in C
 - [whisper-hotkey](https://github.com/augmentedmike/whisper-hotkey): offline speech-to-text on a hotkey
 
