@@ -3,12 +3,12 @@
 ## Open to US remote senior/staff roles or in office with a relocation bonus
 
 Senior software engineer: production systems and applied AI.
-2 decades shipping solid software. Former Co-founder and principle engineer of ClaimHawk (acquired May 2026).
-San Diego, CA. 
+2 decades shipping solid software. Former Co-founder and principal engineer of ClaimHawk (acquired May 2026).
+San Diego, CA.
 
 I built ClaimHawk's AI claims-automation platform from the first line of code to five customer pilots, three paying customers and about $10K MRR, before its acquisition in May 2026. I fine-tuned open-weight models, built the computer-vision pipelines around them, and wrapped both in finite-state workflows and guardrails so AI output stays testable and auditable. I also cut per-customer training compute from about $8K to $2K.
 
-> "He's a highly qualified engineer, but what sets him apart is how quickly he learns and understands new domains."
+> "He's a highly qualified engineer, but what sets him apart is how quickly he learns and understands new domains. Whenever I need an engineer I can count on, I call him first."
 > Ryan Bent, Sr. Product Manager, Signet Corp. (worked together 5+ years)
 
 ## What I'm building
@@ -25,11 +25,11 @@ I built ClaimHawk's AI claims-automation platform from the first line of code to
 
 ## Stack
 
-Python, TypeScript, React/Next.js, Node, Rust, C, SQL. PostgreSQL, SQLite, vector search. AWS, Modal, Docker, GitHub Actions. PyTorch, OpenCV, model fine-tuning and policy-based RL, RAG, evaluation pipelines, Anthropic and OpenAI SDKs, Jev (TypeSafe AI).
+TypeScript, Python, Node, React/Next.js, Rust, C, SQL. PostgreSQL, SQLite, Redis. AWS, Docker, GitHub Actions, Modal. AI in production: Anthropic and OpenAI SDKs, RAG, state-machine workflows, evaluation and guardrails. Also: model fine-tuning and computer vision (PyTorch, OpenCV) where a problem needs it.
 
 ## Looking for
 
-Senior/staff roles on teams shipping AI into regulated or high-stakes domains (healthtech, insurtech, fintech, document AI), or backend/platform roles owning systems end to end. Remote, US time zones.
+Senior/staff software engineering roles on backend, platform or product teams, where I own systems end to end: design, build, ship, operate. I'm strongest on products where correctness matters and AI is one component of a larger system. Remote (US time zones), or in-office with a relocation bonus.
 
 ## Contact
 
